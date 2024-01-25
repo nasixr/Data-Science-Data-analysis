@@ -1,3 +1,7 @@
+<img width="251" alt="لقطة شاشة 2024-01-25 223246" src="https://github.com/nasixr/Data-Science-Data-analysis/assets/93547494/9070843a-1d74-4795-873f-a485dbe2860e">
+<img width="259" alt="لقطة شاشة 2024-01-25 223240" src="https://github.com/nasixr/Data-Science-Data-analysis/assets/93547494/3ba83f59-8c11-4b6e-bdf2-7b2726299e6e">
+<img width="386" alt="لقطة شاشة 2024-01-25 223222" src="https://github.com/nasixr/Data-Science-Data-analysis/assets/93547494/e207ccb7-53cc-4f82-87ee-fe7bb5d1458d">
+<img width="506" alt="لقطة شاشة 2024-01-25 223209" src="https://github.com/nasixr/Data-Science-Data-analysis/assets/93547494/7123c8d8-d60a-47f1-ae68-ddf3c22b6a41">
 # Data-Science-Data-analysis
 Prediction of heart failure - Knowing the factors affecting heart failure
                                Introduction
